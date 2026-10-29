@@ -1,0 +1,189 @@
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+@font-face {
+    font-family:'Big Larian Customs' ;
+    src: url(./fonts/BigLarianCustoms_PERSONAL_USE_ONLY.otf);
+}
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f5f0e5;
+   color: #3b3328;
+}
+.cabecalho {
+   background-color: #315b43;
+   color: white;
+   padding: 20px;
+   text-align: center;
+}
+.logo {
+   color: #f2d27a;
+   font-size: 25px;
+   font-family:'Big Larian Customs' ;
+}
+.menu {
+   margin-top: 15px;
+}
+.menu a {
+   color: white;
+   text-decoration: none;
+   margin: 10px;
+}
+.inicio {
+   background-color: #e8dfc9;
+   padding: 40px;
+}
+.inicio-texto {
+   text-align: center;
+}
+.inicio-texto img {
+   width: 350px;
+   margin-top: 20px;
+   border-radius: 10px;
+}
+.etiqueta {
+   background-color: #d9b85b;
+   padding: 5px;
+   border-radius: 5px;
+   
+}
+.inicio h1 {
+   color: #315b43;
+   font-size: 35px;
+   margin-top: 15px;
+   font-family:'Big Larian Customs' ;
+}
+.inicio h2 {
+   color: #8b5e3c;
+   margin-top: 10px;
+}
+.descricao {
+   margin-top: 20px;
+   font-size: 17px;
+}
+.botao {
+   display: inline-block;
+   background-color: #315b43;
+   color: white;
+   padding: 10px;
+   margin-top: 20px;
+   text-decoration: none;
+   border-radius: 5px;
+}
+.obra-texto {
+   padding: 40px;
+   text-align: center;
+}
+.informacoes {
+   margin-top: 20px;
+}
+.info-card {
+   background-color: #fffaf0;
+   padding: 20px;
+   margin: 15px;
+   border-radius: 10px;
+   text-align: center;
+}
+.info-card h3 {
+   color: #315b43;
+   text-align: center;
+   font-family:'Big Larian Customs' ;
+}
+.secao {
+   padding: 40px;
+}
+.titulo-secao {
+   color: #315b43;
+   text-align: center;
+   font-size: 30px;
+   margin-bottom: 15px;
+}
+.subtitulo {
+   color: #8b5e3c;
+   text-align: center;
+   margin-bottom: 25px;
+}
+.cores {
+   background-color: #e8dfc9;
+}
+.cores-grid {
+   text-align: center;
+}
+.cor-card {
+   background-color: #fffaf0;
+   padding: 20px;
+   margin: 15px;
+   border-radius: 10px;
+   
+}
+.cor-amostra {
+   width: 100%;
+   height: 100px;
+   margin-bottom: 10px;
+}
+.azul {
+   background-color: #557b9a;
+}
+.verde {
+   background-color: #526c45;
+}
+.amarelo {
+   background-color: #d8b84f;
+}
+.vermelho {
+   background-color: #a84c3c;
+}
+.cores-texto {
+   text-align: center;
+   margin-top: 20px;
+   
+}
+.analise-grid {
+   text-align: center;
+}
+.analise-card {
+   background-color: #fffaf0;
+   padding: 20px;
+   margin: 15px;
+   border-radius: 10px;
+}
+.analise-card h3 {
+   color: #315b43;
+   margin-bottom: 10px;
+}
+.artista {
+   background-color: #e8dfc9;
+}
+.artista-conteudo {
+   text-align: center;
+}
+.artista-texto {
+   margin-top: 20px;
+   font-size: 17px;
+}
+.importancia-conteudo {
+   text-align: center;
+}
+.importancia-texto {
+   margin-top: 20px;
+   font-size: 17px;
+}
+.final {
+   background-color: #315b43;
+   color: white;
+   text-align: center;
+   padding: 40px;
+}
+.final h2 {
+   color: #f2d27a;
+   margin-bottom: 15px;
+}
+.rodape {
+   background-color: #243f30;
+   color: white;
+   text-align: center;
+   padding: 20px;
+}
